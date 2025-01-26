@@ -1,0 +1,47 @@
+# Version 1.0
+# Needs more sprites, will add when we get them
+# Made by @coleisforrobot on most socials
+Name: Neon
+Category: Deltafall
+Idle:
+  Up:
+    Sprite: Spr_Neon_Up.png
+    FrameRate: 0
+    FrameCount: 1
+    StartFrame: 0
+  Down:
+    Sprite: Spr_Neon_Down.png
+    FrameRate: 0
+    FrameCount: 1
+    StartFrame: 0
+  Left:
+    Sprite: Spr_Neon_Left.png
+    FrameRate: 0
+    FrameCount: 1
+    StartFrame: 0
+  Right:
+    Sprite: Spr_Neon_Right.png
+    FrameRate: 0
+    FrameCount: 1
+    StartFrame: 0
+Walk:
+  Up:
+    Sprite: Spr_Neon_Up.png
+    FrameRate: 0
+    FrameCount: 1
+    StartFrame: 0
+  Down:
+    Sprite: Spr_Neon_Down.png
+    FrameRate: 0
+    FrameCount: 1
+    StartFrame: 0
+  Left:
+    Sprite: Spr_Neon_Left.png
+    FrameRate: 0
+    FrameCount: 1
+    StartFrame: 0
+  Right:
+    Sprite: Spr_Neon_Right.png
+    FrameRate: 0
+    FrameCount: 1
+    StartFrame: 0
