@@ -1,6 +1,11 @@
-# Version 1.0
+# Version 1.1
+# Updates:
+# - Fixed Up sprite
+# - Added spacing in character.yaml
+#
 # Needs more sprites, will add when we get them
 # Made by @coleisforrobot on most socials
+
 Name: Neon
 Category: Deltafall
 Idle:
