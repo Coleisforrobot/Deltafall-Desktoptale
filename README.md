@@ -1,6 +1,8 @@
 # Deltafall Desktoptale
 Deltafall pack for Desktoptale
 
+Currently only contains Neon.
+
 ## Installing
 ### Release
 Download the [latest](https://github.com/Coleisforrobot/Deltafall-Desktoptale/releases/latest). Extract the .zip to ...\Desktoptale\Content\Custom\
